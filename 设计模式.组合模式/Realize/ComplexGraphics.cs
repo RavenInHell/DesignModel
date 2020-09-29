@@ -14,7 +14,7 @@ namespace 设计模式.组合模式.Realize
         {
 
         }
-        public override void Add(Graphics g)
+        public  void Add(Graphics g)
         {
             complexGraphicsList.Add(g);
         }
@@ -27,7 +27,7 @@ namespace 设计模式.组合模式.Realize
             }
         }
 
-        public override void Remove(Graphics g)
+        public  void Remove(Graphics g)
         {
             complexGraphicsList.Remove(g);
         }

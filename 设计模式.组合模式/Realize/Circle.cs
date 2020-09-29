@@ -15,19 +15,19 @@ namespace 设计模式.组合模式.Realize
         {
 
         }
-        public override void Add(Graphics g)
-        {
-            throw new NotImplementedException("不能向简单图形Circle添加其他图形");
-        }
+        //public override void Add(Graphics g)
+        //{
+        //    throw new NotImplementedException("不能向简单图形Circle添加其他图形");
+        //}
 
         public override void Draw()
         {
             Console.WriteLine($"画 {Name}");
         }
 
-        public override void Remove(Graphics g)
-        {
-            throw new NotImplementedException("不能向简单图Circle形添加其他图形");
-        }
+        //public override void Remove(Graphics g)
+        //{
+        //    throw new NotImplementedException("不能向简单图Circle形添加其他图形");
+        //}
     }
 }
