@@ -10,7 +10,7 @@ namespace 设计模式.模板方法模式
     class Program
     {
         /// <summary>
-        /// 以不同的菜，但是其炒菜流程是一样的
+        /// 以不同的菜，但是其炒菜流程是一样的作为案例
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)

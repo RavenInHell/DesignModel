@@ -13,13 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignModel.StragetyPattern
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignModel.BridgePattern", "DesignModel.BridgePattern\DesignModel.BridgePattern.csproj", "{34AE9E3C-6D9D-4F34-AD44-9D823B03B220}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignModel.IteratorPattern", "DesignModel.IteratorPatten\DesignModel.IteratorPattern.csproj", "{0CB1831E-F8E3-4B81-8724-0416A28EC58A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignModel.IteratorPattern", "DesignModel.IteratorPatten\DesignModel.IteratorPattern.csproj", "{0CB1831E-F8E3-4B81-8724-0416A28EC58A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignModel.VistorPattern", "DesignModel.VistorPattern\DesignModel.VistorPattern.csproj", "{A70C1FB2-2192-44B8-8A03-6B975EA9A3BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignModel.VistorPattern", "DesignModel.VistorPattern\DesignModel.VistorPattern.csproj", "{A70C1FB2-2192-44B8-8A03-6B975EA9A3BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.组合模式", "设计模式.组合模式\设计模式.组合模式.csproj", "{77B36FDE-E6C1-4DA7-B2E6-921EF005E2C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.组合模式", "设计模式.组合模式\设计模式.组合模式.csproj", "{77B36FDE-E6C1-4DA7-B2E6-921EF005E2C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.模板方法模式", "设计模式.模板方法模式\设计模式.模板方法模式.csproj", "{0D571135-2B60-4027-A0F6-62CD085100A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.模板方法模式", "设计模式.模板方法模式\设计模式.模板方法模式.csproj", "{0D571135-2B60-4027-A0F6-62CD085100A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.命令模式", "设计模式.命令模式\设计模式.命令模式.csproj", "{A1E66E56-A94B-40D7-9952-B8137862F443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.中介者模式", "设计模式.中介者模式\设计模式.中介者模式.csproj", "{4143A8A1-F282-4C2D-B422-D6DE2883796C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{0D571135-2B60-4027-A0F6-62CD085100A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D571135-2B60-4027-A0F6-62CD085100A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D571135-2B60-4027-A0F6-62CD085100A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E66E56-A94B-40D7-9952-B8137862F443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E66E56-A94B-40D7-9952-B8137862F443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E66E56-A94B-40D7-9952-B8137862F443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E66E56-A94B-40D7-9952-B8137862F443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4143A8A1-F282-4C2D-B422-D6DE2883796C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4143A8A1-F282-4C2D-B422-D6DE2883796C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4143A8A1-F282-4C2D-B422-D6DE2883796C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4143A8A1-F282-4C2D-B422-D6DE2883796C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
