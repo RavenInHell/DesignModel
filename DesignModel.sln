@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.模板方法�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.命令模式", "设计模式.命令模式\设计模式.命令模式.csproj", "{A1E66E56-A94B-40D7-9952-B8137862F443}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.中介者模式", "设计模式.中介者模式\设计模式.中介者模式.csproj", "{4143A8A1-F282-4C2D-B422-D6DE2883796C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.中介者模式", "设计模式.中介者模式\设计模式.中介者模式.csproj", "{4143A8A1-F282-4C2D-B422-D6DE2883796C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.状态者模式", "设计模式.状态者模式\设计模式.状态者模式.csproj", "{A65B38E1-3231-43FA-8CC0-BBEB7E643DC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{4143A8A1-F282-4C2D-B422-D6DE2883796C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4143A8A1-F282-4C2D-B422-D6DE2883796C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4143A8A1-F282-4C2D-B422-D6DE2883796C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65B38E1-3231-43FA-8CC0-BBEB7E643DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65B38E1-3231-43FA-8CC0-BBEB7E643DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65B38E1-3231-43FA-8CC0-BBEB7E643DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65B38E1-3231-43FA-8CC0-BBEB7E643DC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
