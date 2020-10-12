@@ -39,7 +39,6 @@ namespace 设计模式.状态者模式.AccountState
 
         public override void Withdraw(double amount)
         {
-            StateChangeCheck();
             Balance -= amount;
             StateChangeCheck();
         }

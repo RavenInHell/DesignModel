@@ -7,8 +7,8 @@ namespace 设计模式.状态者模式
     {
         static void Main(string[] args)
         {
-           Account account=new Account("Learning Hard");
-           account.Withdraw(2000.00);
+            Account account = new Account("Learning Hard");
+            account.Withdraw(2000.00);
             account.Deposit(1000.00);
             account.Deposit(200.00);
             account.Deposit(600);
