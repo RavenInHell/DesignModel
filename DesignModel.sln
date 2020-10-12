@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.状态者模�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.单例模式", "设计模式.单例模式\设计模式.单例模式.csproj", "{D84084EB-DF3F-4DAA-9934-92757C8667EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.简单工厂模式", "设计模式.简单工厂模式\设计模式.简单工厂模式.csproj", "{B8545312-07B7-47B0-90D0-81507479494D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D84084EB-DF3F-4DAA-9934-92757C8667EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D84084EB-DF3F-4DAA-9934-92757C8667EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D84084EB-DF3F-4DAA-9934-92757C8667EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8545312-07B7-47B0-90D0-81507479494D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8545312-07B7-47B0-90D0-81507479494D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8545312-07B7-47B0-90D0-81507479494D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8545312-07B7-47B0-90D0-81507479494D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
