@@ -27,13 +27,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.中介者模�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.状态者模式", "设计模式.状态者模式\设计模式.状态者模式.csproj", "{A65B38E1-3231-43FA-8CC0-BBEB7E643DC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.单例模式", "设计模式.单例模式\设计模式.单例模式.csproj", "{D84084EB-DF3F-4DAA-9934-92757C8667EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.单例模式", "设计模式.单例模式\设计模式.单例模式.csproj", "{D84084EB-DF3F-4DAA-9934-92757C8667EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.简单工厂模式", "设计模式.简单工厂模式\设计模式.简单工厂模式.csproj", "{B8545312-07B7-47B0-90D0-81507479494D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.简单工厂模式", "设计模式.简单工厂模式\设计模式.简单工厂模式.csproj", "{B8545312-07B7-47B0-90D0-81507479494D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.工厂方法模式", "设计模式.工厂方法模式\设计模式.工厂方法模式.csproj", "{EA1D03D7-B999-4915-81C7-9B66E2CC3689}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.工厂方法模式", "设计模式.工厂方法模式\设计模式.工厂方法模式.csproj", "{EA1D03D7-B999-4915-81C7-9B66E2CC3689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.抽象工厂模式", "设计模式.抽象工厂模式\设计模式.抽象工厂模式.csproj", "{2D48E936-C7FA-48DB-8F91-B7EA1CAF3116}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.抽象工厂模式", "设计模式.抽象工厂模式\设计模式.抽象工厂模式.csproj", "{2D48E936-C7FA-48DB-8F91-B7EA1CAF3116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.建造者模式", "设计模式.建造者模式\设计模式.建造者模式.csproj", "{4EF947E8-E09A-4D37-9075-EB2B1DCB4C53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{2D48E936-C7FA-48DB-8F91-B7EA1CAF3116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D48E936-C7FA-48DB-8F91-B7EA1CAF3116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D48E936-C7FA-48DB-8F91-B7EA1CAF3116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF947E8-E09A-4D37-9075-EB2B1DCB4C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF947E8-E09A-4D37-9075-EB2B1DCB4C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF947E8-E09A-4D37-9075-EB2B1DCB4C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF947E8-E09A-4D37-9075-EB2B1DCB4C53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
