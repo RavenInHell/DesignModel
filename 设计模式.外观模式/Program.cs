@@ -20,6 +20,7 @@ namespace 设计模式.外观模式
             if (registrationFacade.RegisterCourse("设计模式","Learning Hard"))
             {
                 Console.WriteLine("选课成功！");
+
             }
             else
             {
