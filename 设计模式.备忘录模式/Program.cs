@@ -44,10 +44,11 @@ namespace 设计模式.备忘录模式
             //给予恢复选择
             Console.WriteLine("--------恢复联系人列表，请从下列表选择恢复的日期------");
             var keyCollection = caretaker.ContactMementoDis.Keys;
+            int i = -1;
             foreach (var k in keyCollection)
             {
                 
-                Console.WriteLine($"Key={k}");
+                Console.WriteLine($"Key={k}   选择索引为： {++i}");
             }
 
             while (true)

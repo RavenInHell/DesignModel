@@ -42,7 +42,7 @@ namespace 设计模式.备忘录模式
             Console.WriteLine($"联系人列表中有{ContactPersons.Count},列表如下：");
             foreach (var person in ContactPersons)
             {
-                Console.WriteLine($"姓名：{person.Name}   \t电话号码：{person.MobileNum}");
+                Console.WriteLine($"姓名：{person.Name}   电话号码：{person.MobileNum}");
             }
         }
     }
