@@ -37,15 +37,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.抽象工厂�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.建造者模式", "设计模式.建造者模式\设计模式.建造者模式.csproj", "{4EF947E8-E09A-4D37-9075-EB2B1DCB4C53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.原型模式", "设计模式.原型模式\设计模式.原型模式.csproj", "{DF27C9DA-9DB6-4D81-9E68-35D83892B808}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.原型模式", "设计模式.原型模式\设计模式.原型模式.csproj", "{DF27C9DA-9DB6-4D81-9E68-35D83892B808}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.适配器模式", "设计模式.适配器模式\设计模式.适配器模式.csproj", "{96BE1090-2BA3-4996-958A-D32C7C33844A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.适配器模式", "设计模式.适配器模式\设计模式.适配器模式.csproj", "{96BE1090-2BA3-4996-958A-D32C7C33844A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.外观模式", "设计模式.外观模式\设计模式.外观模式.csproj", "{6F5771CD-FF8D-45EB-8E3B-630042A2F7E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.外观模式", "设计模式.外观模式\设计模式.外观模式.csproj", "{6F5771CD-FF8D-45EB-8E3B-630042A2F7E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.享元模式", "设计模式.享元模式\设计模式.享元模式.csproj", "{2B445F05-9BD5-4035-8BF8-396F4567D937}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.享元模式", "设计模式.享元模式\设计模式.享元模式.csproj", "{2B445F05-9BD5-4035-8BF8-396F4567D937}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.责任链模式", "设计模式.责任链模式\设计模式.责任链模式.csproj", "{FE469361-DC1D-4643-94DC-BA1D22065E53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式.责任链模式", "设计模式.责任链模式\设计模式.责任链模式.csproj", "{FE469361-DC1D-4643-94DC-BA1D22065E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式.备忘录模式", "设计模式.备忘录模式\设计模式.备忘录模式.csproj", "{540D438E-22ED-47F7-B329-10524B407883}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{FE469361-DC1D-4643-94DC-BA1D22065E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE469361-DC1D-4643-94DC-BA1D22065E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE469361-DC1D-4643-94DC-BA1D22065E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540D438E-22ED-47F7-B329-10524B407883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540D438E-22ED-47F7-B329-10524B407883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540D438E-22ED-47F7-B329-10524B407883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540D438E-22ED-47F7-B329-10524B407883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
